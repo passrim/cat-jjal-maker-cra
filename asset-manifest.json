@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/passrim/cat-jjal-maker-cra/static/css/main.073c9b0a.css",
+    "main.js": "/passrim/cat-jjal-maker-cra/static/js/main.b9492bfc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/passrim/cat-jjal-maker-cra/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/passrim/cat-jjal-maker-cra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/passrim/cat-jjal-maker-cra/index.html",
+    "main.073c9b0a.css.map": "/passrim/cat-jjal-maker-cra/static/css/main.073c9b0a.css.map",
+    "main.b9492bfc.js.map": "/passrim/cat-jjal-maker-cra/static/js/main.b9492bfc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/passrim/cat-jjal-maker-cra/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b9492bfc.js"
+  ]
+}
